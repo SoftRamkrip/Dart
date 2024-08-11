@@ -37,7 +37,7 @@ In this example, the `name` variable is declared as `final` and assigned the val
 
 ```dart
 void main() {
-  const String name = 'Raman';
+  const String name = 'rajesh';
   
   // Trying to reassign or modify a const variable will cause an error
   // name = 'Ramanujan';  // Error: Constant variables can't be assigned a value.
